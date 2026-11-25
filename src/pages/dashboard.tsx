@@ -598,7 +598,7 @@ const openSupportModal = (action: "deposit" | "withdraw") => {
                   </span>
 
                   <span className="text-xs text-gray-500">
-                    Target: $50,000
+                    Target: $100,000
                   </span>
 
                 </div>
